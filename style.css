@@ -1,0 +1,55 @@
+
+
+
+
+.camille h2{
+	color: blue;
+	border-left: 3px solid;
+	border-bottom: 3px solid;
+	border-right: 3px solid;
+	border-top: 3px solid;
+}
+
+.left_side{
+	transform: translate(62.5%, 0);
+	position: absolute;
+	float: left;
+	text-align: 50%;
+	margin-right: 5%;
+	width: 20.47%;
+	top: 18.5%;
+	
+	background-color: black;
+	color: white;
+	
+}
+
+.camille{
+	float: right;
+	position: absolute;
+	transform: translate(50.8%, 0);
+    text-align: justify;
+    top: 18%;
+    width: 65%;
+    border-left: 3px solid;
+	border-right: 3px solid;  
+}
+
+ul{
+	margin-left: 20px;
+}
+
+.left_side img{
+	transform: translate(23%, 0);
+	margin-right: 60px;
+	border-radius: 50%;
+}
+
+h1{
+	margin-left: 12.95%;
+	text-align: center;
+	background-color: rgb(114, 21, 21);
+	color: white;
+	
+	padding-top: 2%;
+}
